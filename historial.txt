@@ -1,0 +1,5 @@
+* 52e8e10 Afegir modul
+| * bf43abd Afegir contacte
+|/  
+* 87fa397 Afegir gitignore
+* f3ee5d0 Primer commit
